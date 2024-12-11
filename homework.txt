@@ -1,0 +1,7 @@
+1. class="gLFyf"  ან
+      id="APjFqb"
+
+2. class="gNO89b"   ან 
+      value="Google Search"
+
+3. //*[@id="gb"]/div/div[1]/div/div[2]/a
